@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>List Example</title>
+</head>
+<body>
+
+<h2>Fruits List:</h2>
+<ul>
+    <li>Apple</li>
+    <li>Banana</li>
+    <li>Fruit 1</li>
+    <ol>
+        <li>Grape</li>
+
+        <li>Orange</li>
+    </ol>
+    <li>Fruit 2</li>
+    <ul>
+        <li>Kiwi</li>
+    </ul>
+    <li>Pineapple</li>
+    <li>Star Fruit</li>
+</ul>
+
+</body>
+</html>
